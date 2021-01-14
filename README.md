@@ -1,5 +1,11 @@
 ### Hi I'm suhyeon 👋
-
+<p>
+  <em>
+    저는 <b>junior Developer</b> 입니다. 👨‍💻 <br>
+    다양하고 재미있는 것들을 <b>개발</b>하는 걸 좋아합니다. 🎁 <br>
+    재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 서비스를 개발하고 싶습니다. 
+  </em>  
+</p>
 <!--
 **vkdnj147/vkdnj147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,5 +40,12 @@ Backend , App Developer(2019.11 ~ 2020.03)
 
 
 ### 사용 기술
-Fro
+- Springboot
+- Flutter (Bloc Pattern)
+- Kotlin
+- Java
+- Mysql
+
+![vkdnk147's github stats](https://github-readme-stats.vercel.app/api?username=vkdnj147&show_icons=true)
+
 
