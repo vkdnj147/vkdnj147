@@ -1,11 +1,5 @@
 ### Hi I'm suhyeon 👋
-<p>
-  <em>
-    저는 <b>junior Developer</b> 입니다. 👨‍💻 <br>
-    다양하고 재미있는 것들을 <b>개발</b>하는 걸 좋아합니다. 🎁 <br>
-    재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 서비스를 개발하고 싶습니다. 
-  </em>  
-</p>
+
 <!--
 **vkdnj147/vkdnj147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
