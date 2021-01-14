@@ -1,4 +1,4 @@
-### Hi I'm suhyeon 👋
+### Hi there I'm suhyeon 👋
 
 <!--
 **vkdnj147/vkdnj147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
